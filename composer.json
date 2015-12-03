@@ -1,0 +1,13 @@
+{
+    "name": "timenz/blade-sample",
+    "description": "test",
+    "authors": [
+        {
+            "name": "timen chad",
+            "email": "timenmail@gmail.com"
+        }
+    ],
+    "require": {
+    	"philo/laravel-blade": "2.*"
+    }
+}
